@@ -6,11 +6,19 @@ Aplikacja quizowa działająca w terminalu (jeżeli nie polegnę, to z chęcią 
 Osiągnięte:
 Aplikacja działa w konsoli. Są trzy opcje do wybrania:
   1. Rozpocznij grę:
+     
     - gracz wybiera zakres działań (liczbę) oraz typy działań (+, -, *, /),
+    
     - odpowiedzi są podawane w formie wyboru A B C D (trzy złe, jedna dobra),
+    
     - każdy gracz ma 3 życia i może grać w nieskończoność,
+    
     - za każde dobrze rozwiązane działanie gracz otrzymuje 1 punkt,
+    
     - po skończeniu gry, można wpisać się do rankingu.
+    
   3. Zobacz ranking:
+     
     - pokazuje ranking 10 najlepszych wyników.
-  4. Wyjście.
+    
+  5. Wyjście.
