@@ -1,0 +1,3 @@
+C:/Users/Gabcia/Desktop/Projekt/GW_projekt_Cpp/build/CMakeFiles/quiz.dir
+C:/Users/Gabcia/Desktop/Projekt/GW_projekt_Cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Gabcia/Desktop/Projekt/GW_projekt_Cpp/build/CMakeFiles/ZERO_CHECK.dir

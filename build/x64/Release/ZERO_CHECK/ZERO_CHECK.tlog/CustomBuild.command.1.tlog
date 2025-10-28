@@ -1,0 +1,10 @@
+^C:\USERS\GABCIA\DESKTOP\PROJEKT\GW_PROJEKT_CPP\BUILD\CMAKEFILES\0CB55AD2F4EC7A3C3ADEBC9938D3E448\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gabcia/Desktop/Projekt/GW_projekt_Cpp -BC:/Users/Gabcia/Desktop/Projekt/GW_projekt_Cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Gabcia/Desktop/Projekt/GW_projekt_Cpp/build/QuizGame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
