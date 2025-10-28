@@ -41,7 +41,7 @@ void Game::start() {
     lives = 3;
     score = 0;
 
-    cout << "\nZaczynamy! Masz " << lives << " zycia.\n";
+    cout << "\nMasz " << lives << " zycia.\n";
     cout << "----------------------------------\n";
 
     int questionNumber = 1;
