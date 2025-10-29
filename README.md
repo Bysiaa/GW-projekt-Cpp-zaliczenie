@@ -16,3 +16,5 @@ Aplikacja działa w konsoli. Są trzy opcje do wybrania:
       - pokazuje ranking 10 najlepszych wyników.
     
   5. Wyjście.
+
+Program został przetestowany przeze mnie. Nie udało się zrobić projektu w aplikacji okienkowej (problemy konfiguracyjne).
